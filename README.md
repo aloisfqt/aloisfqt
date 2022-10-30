@@ -1,4 +1,4 @@
-## ✨ - Hello, I'm Aloïs !
+## 👋 - Hello I'm Aloïs !
 
 Passionate about innovative technology, also involved in management & community building.
 
