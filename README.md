@@ -6,5 +6,5 @@ I'm currently working for [Unosial](https://unosial.com) as **Product Manager**,
 ## 🙌 - Find me !
 
 - Profile **-** [Aloïs](https://unosial.bio/alois)
-- Twitter **-** [@aloisspro](https://twitter.com/aloisft)
+- Twitter **-** [@aloisft](https://twitter.com/aloisft)
 - Contact **-** [alois@unosial.com](alois@unosial.com)
