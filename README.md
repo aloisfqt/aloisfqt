@@ -6,6 +6,6 @@
     Hello! I'm <strong>Aloïs 👋</strong>
 </h2>
 
-- French Student
-- Product Manager @ [Unosial](https://unosial.com)
+- 🇫🇷 French Student
+- 💻 Product Manager @ [Unosial](https://unosial.com)
 
