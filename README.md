@@ -6,6 +6,7 @@ const Aloïs = new Aloïs({
     twitter: "https://twitter.com/aloisft",
     website: "https://unosial.bio/alois",
     linkedIn: "https://linkedin.com/in/aloisft",
+    contact: "alois@unosial.com"
   },
 });
 ```
