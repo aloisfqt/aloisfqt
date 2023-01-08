@@ -1,4 +1,4 @@
-<img align="right" alt ="https://github.com/aloisft/" src="https://github-readme-stats.vercel.app/api?username=aloisft&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="right" alt ="https://github.com/aloisft/" src="https://github-readme-stats.vercel.app/api?username=aloisft&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&@hide_border=true" />
 
 
 <h2 align="left">
