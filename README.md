@@ -9,5 +9,4 @@
 - Product Manager @ [Unosial](https://unosial.com)
 - Contact: alois@unosial.com
 
-#
 [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/aloisft&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
