@@ -5,7 +5,8 @@
     Hello! I'm <strong>Aloïs 👋</strong> 
 </h2>
 
-- High school student
+- Student
+- Junior Web Dev.
 - Prev. @ [Unosial](https://unosial.com)
 
 
