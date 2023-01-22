@@ -6,7 +6,6 @@
 </h2>
 
 - Student
-- Junior Web Dev.
 - Prev. @ [Unosial](https://unosial.com)
 
 
