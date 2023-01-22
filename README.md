@@ -6,6 +6,7 @@
 </h2>
 
 - High school student
+- Prev. @ [Unosial](https://unosial.com)
 
 
 #
