@@ -5,7 +5,7 @@
     Hello! I'm <strong>Aloïs 👋</strong> 
 </h2>
 
-- French Student
+- Student
 - Prev. @ [Unosial](https://unosial.com)
 
 
